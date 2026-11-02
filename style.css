@@ -92,6 +92,7 @@ h2 {
   height: 210px;
   border-radius: 50%;
   object-fit: cover;
+  object-position: center 32%;
   border: 1px solid #e2e8f0;
 }
 
@@ -176,7 +177,9 @@ hr {
 .ico img {
   border-radius: 6px;
   width: 100%;
-  max-width: 68px;
+  max-width: 72px;
+  max-height: 68px;
+  object-fit: contain;
   margin-left: 12px;
   display: block;
 }

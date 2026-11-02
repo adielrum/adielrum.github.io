@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80" width="80" height="80">
-  <rect width="80" height="80" rx="8" fill="#8b1e24"/>
-  <circle cx="40" cy="34" r="18" fill="none" stroke="#f6e05e" stroke-width="3"/>
-  <text x="40" y="39" font-family="Arial, sans-serif" font-size="15" font-weight="bold" fill="#ffffff" text-anchor="middle">OJK</text>
-  <text x="40" y="68" font-family="Arial, sans-serif" font-size="9.5" fill="#f7fafc" text-anchor="middle">INDONESIA</text>
-</svg>
